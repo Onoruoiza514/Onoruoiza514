@@ -3,30 +3,31 @@
 
 Welcome to my corner of GitHub, where engineering meets data, and automation powers innovation.
 
-🌟 About Me
-🎓 Chemical Engineering Student at the Federal University of Technology Minna, Nigeria.
-📊 Passionate about leveraging data science and machine learning to solve real-world challenges, especially in water treatment and chemical processes.
-🤖 Specializing in web automation, task automation tools, and creating efficient scripts for modern workflows.
-🌍 Exploring the possibilities of machine learning,deep learning in conjunction with generative AI.
+About Me
+Chemical Engineering Student at the Federal University of Technology Minna, Nigeria.
+Passionate about leveraging data science and machine learning to solve real-world challenges.
+Specializing in web automation, task automation tools, and creating efficient scripts for modern workflows.
+Exploring the possibilities of machine learning,deep learning in conjunction with generative AI.
 
-🛠️ My Skills
+My Skills
 Programming & Automation: Python, Bash, Selenium, Task Automation Tools.
 Data Science & Machine Learning: Pandas, NumPy, Scikit-learn, Data Visualization (Matplotlib, Seaborn).
 Web Development: HTML, CSS, JavaScript (Basics).
+Generative AI: 
 Version Control: Git, GitHub.
 
-🌱 Currently Working On
+Currently Working On
 Projects for Upwork: Showcasing my automation expertise to land exciting freelance opportunities.
 GitHub Portfolio: Building scripts and tools to demonstrate my coding prowess.
 Advanced Skills: Diving deeper into SQL, APIs, and cloud platforms.
 
-🔍 Explore My Work
+Explore My Work
 
-🌟 Highlights:
+Highlights:
 A web scraper that automates data collection for research.
 A task scheduler that simplifies repetitive workflows.
 
-💻 Open Source Contributions:
+Open Source Contributions:
 Check out my repositories for exciting projects and tools.
 
 🚀 Let's Connect!
