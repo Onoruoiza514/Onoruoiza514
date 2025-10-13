@@ -1,5 +1,5 @@
 👋 Hi there! I'm Abdulfaatihi Onoruoiza Tijani
-🚀 Chemical Engineer | Data Scientist | Machine Learning Engineer | Automation Wizard😏 | Generative AI enthusiast | Python Programmer
+BSc. Chemical Engineering(In View) | Data Scientist | Machine Learning Engineer | Automation/Web Automation Expert | Generative AI enthusiast | Python Developer
 
 Welcome to my corner of GitHub, where engineering meets data, and automation powers innovation.
 
@@ -31,12 +31,12 @@ Open Source Contributions:
 Check out my repositories for exciting projects and tools.
 
 🚀 Let's Connect!
-📧 Email: abdulfaatihi@example.com
-💼 LinkedIn: linkedin.com/in/abdulfaatihi
+📧 Email: abdulfaatihitijani@gmail.com
+💼 LinkedIn:www.linkedin.com/in/abdulfaatihi-suleiman-089487382
 🐦 Twitter: @Abdulfaatihi
-💡 "Innovation happens where curiosity meets persistence."
 
-Let's build the future together! 🌟
+
+Let's build the future together!
 
 <!---
 Onoruoiza514/Onoruoiza514 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
